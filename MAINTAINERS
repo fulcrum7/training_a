@@ -6,7 +6,7 @@ Please try to follow the guidelines below.  This will make things
 easier on the maintainers.  Not all of these guidelines matter for every
 trivial patch so apply some common sense.
 
-1.	Always _test_ your changes, however small, on at least 4 or
+1.	dwAlways _test_ your changes, however small, on at least 4 or
 	5 people, preferably many more.
 
 2.	Try to release a few ALPHA test versions to the net. Announce
